@@ -19,6 +19,8 @@ Este script Python foi desenvolvido para facilitar o fluxo de trabalho de inteli
     Clique no ícone de Editor (o botão que parece um bloco de notas).
     Cole o código do script e clique no botão Executar Script (ícone de "Play" verde).
     Selecione o arquivo .srt desejado na janela que será aberta.
+    [atualização:]
+    Foi acrecentado o arquivo QGIS_SRT_para_GPX_processing.py para utilizar como script no Processing (Caixa de Ferramentas de Processamento)
 
 ⚖️ Requisitos
 
